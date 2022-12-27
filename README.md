@@ -2,8 +2,6 @@
 
 <p align="center">valomacro.com the scammers' color based is a triggerbot, I'm sharing the open source file with you by breaking open source applications.</p>
 
-<h1 align="center">How To Use</h1>
-
 # How To Use
 
 1- Discard the "Loader" folder on your C disk ( "C:/Loader/Loader .it has to be "exe" otherwise you will be met with an error)
@@ -22,6 +20,6 @@ Hold Mode Key = ALT
 
 # Screenshot
 
-![Screenshot](https://raw.githubusercontent.com/MrRubby/Valorant_ColorBase_TriggerBot/master/Screenshot/image (1).png.png)
+![Screenshot](https://raw.githubusercontent.com/MrRubby/Valorant_ColorBase_TriggerBot/master/Screenshot/loader.png)
 
-![Screenshot](https://raw.githubusercontent.com/MrRubby/Valorant_ColorBase_TriggerBot/master/Screenshot/image.png.png)
+![Screenshot](https://raw.githubusercontent.com/MrRubby/Valorant_ColorBase_TriggerBot/master/Screenshot/menu.png)
