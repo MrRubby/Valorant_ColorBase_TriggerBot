@@ -1,0 +1,90 @@
+2022-05-23 21:05:26 [6564-9924] :: Info :: 
+2022-05-23 21:05:26 [6564-9924] :: Info :: ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+2022-05-23 21:05:26 [6564-9924] :: Info :: DF Standard Installer version: 8.63.020.5634
+2022-05-23 21:05:26 [6564-9924] :: Info :: Check for supported platforms.
+2022-05-23 21:05:26 [6564-9924] :: Info :: Clean Installation for the first time.
+2022-05-23 21:05:26 [6564-9924] :: Info :: 4.0 - Detected Windows 10 version or higher. Check for Windows Updates that are pending configuration.
+2022-05-23 21:05:26 [6564-9924] :: Info :: Windows Updates Query Package Information - Version = 8.63.020.5634
+2022-05-23 21:05:34 :: Windows Updates Command Line - Version = 8.63.020.5634
+2022-05-23 21:05:35 :: Package Count = 60
+2022-05-23 21:05:36 :: [57] NAME=Package_for_KB5003791~31bf3856ad364e35~amd64~~19041.1237.1.3 :: TYPE=Update :: DESCRIPTION=Fix for KB5003791 :: INSTALL-TIME(UTC)=11:08:42 Monday, May 23, 2022 :: STATE=Installed :: RESTART=Required (Override Restart Required - More than 6 hrs have elapsed)
+2022-05-23 21:05:37 [6564-9924] :: Info :: NO updates are IN-PROGRESS and PENDING configuration. NO Reboot is REQUIRED or PENDING - Proceed with DeepFreeze installation.
+2022-05-23 21:09:21 [12724-7872] :: Info :: 
+2022-05-23 21:09:21 [12724-7872] :: Info :: ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+2022-05-23 21:09:21 [12724-7872] :: Info :: DF Installer version: 8.63.020.5634
+2022-05-23 21:09:21 [12724-7872] :: Info :: Check for supported platforms.
+2022-05-23 21:09:21 [12724-7872] :: Info :: 1.0 - Start Pre-installation checks.
+2022-05-23 21:09:21 [12724-7872] :: Info :: 1.2 - Detected Windows Desktop (Non-server Edition)
+2022-05-23 21:09:21 [12724-7872] :: Info :: 1.11 - Pre-installation tests completed SUCCESSFULLY.
+2022-05-23 21:09:21 [12724-7872] :: Info :: 2.0 - Read Configuration and Setup Flags.
+2022-05-23 21:09:21 [12724-7872] :: Info :: 2.5 - Read Configuration and Setup Flags completed SUCCESSFULLY.
+2022-05-23 21:09:21 [12724-7872] :: Info :: 3.0 - Check for upgradability.
+2022-05-23 21:09:21 [12724-7872] :: Info :: Clean Installation for the first time.
+2022-05-23 21:09:21 [12724-7872] :: Info :: Clean Installation for the first time.
+2022-05-23 21:09:21 [12724-7872] :: Info :: 4.0 - Detected Windows 10 version or higher. Check for Windows Updates that are pending configuration.
+2022-05-23 21:09:21 [12724-7872] :: Info :: Windows Updates Query Package Information - Version = 8.63.220.5634
+2022-05-23 21:09:22 :: Windows Updates Command Line - Version = 8.63.220.5634
+2022-05-23 21:09:22 :: Package Count = 60
+2022-05-23 21:09:23 :: [57] NAME=Package_for_KB5003791~31bf3856ad364e35~amd64~~19041.1237.1.3 :: TYPE=Update :: DESCRIPTION=Fix for KB5003791 :: INSTALL-TIME(UTC)=11:08:42 Monday, May 23, 2022 :: STATE=Installed :: RESTART=Required (Override Restart Required - More than 6 hrs have elapsed)
+2022-05-23 21:09:23 [12724-7872] :: Info :: NO updates are IN-PROGRESS and PENDING configuration. NO Reboot is REQUIRED or PENDING - Proceed with DeepFreeze installation.
+2022-05-23 21:09:23 [12724-7872] :: Info :: 5.0 - Preprocess Thawspace volume drives.
+2022-05-23 21:09:23 [12724-7872] :: Info :: 5.9 - Preprocess Thawspace Volume Drives completed SUCCESSFULLY.
+2022-05-23 21:09:25 [12724-7872] :: Info :: Check for minimum available disk space
+2022-05-23 21:09:25 [12724-7872] :: Info :: Start DeepFreeze Installation
+2022-05-23 21:09:25 [12724-7872] :: Info :: Handle License Validation
+2022-05-23 21:09:25 [12724-7872] :: Info :: Handle Existing ThawSpaces
+2022-05-23 21:09:26 [12724-7872] :: Info :: Starting DeepFreeze Installation-1
+2022-05-23 21:09:26 [12724-7872] :: Info :: Setup DeepFreeze Install folder
+2022-05-23 21:09:26 [12724-7872] :: Info :: Copy DeepFreeze files
+2022-05-23 21:09:26 [12724-7872] :: Info :: Copy File From=FrzState2k.exe To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\\_$Df\
+2022-05-23 21:09:26 [12724-7872] :: Info :: Copy File From=DeepFreezeAdapter.dll To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2022-05-23 21:09:26 [12724-7872] :: Info :: Copy File From=WUCommandLine.exe To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2022-05-23 21:09:26 [12724-7872] :: Info :: Copy File From=DFServ.exe To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2022-05-23 21:09:27 [12724-7872] :: Info :: Copy MOF files
+2022-05-23 21:09:27 [12724-7872] :: Info :: Copy File From=FaronicsWebProduct.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2022-05-23 21:09:27 [12724-7872] :: Info :: Copy File From=FaronicsWebProduct_v1.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2022-05-23 21:09:27 [12724-7872] :: Info :: Copy File From=DeepFreezeWorkstation.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2022-05-23 21:09:27 [12724-7872] :: Info :: MOF Compiler File = C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\1.bat
+2022-05-23 21:09:27 [12724-7872] :: Info :: Copy MOF files
+2022-05-23 21:09:27 [12724-7872] :: Info :: Copy File From=FaronicsWebProduct.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2022-05-23 21:09:27 [12724-7872] :: Info :: Copy File From=FaronicsWebProduct_v1.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2022-05-23 21:09:27 [12724-7872] :: Info :: Copy File From=DeepFreezeWorkstation.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2022-05-23 21:09:27 [12724-7872] :: Info :: MOF Compiler File = C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\1.bat
+2022-05-23 21:09:27 [12724-7872] :: Info :: Install MOF files
+2022-05-23 21:09:28 [12724-7872] :: Info :: Install Adapter
+2022-05-23 21:09:28 [12724-7872] :: Info :: Install DeepFreeze Service
+2022-05-23 21:09:32 [12724-7872] :: Info :: Detected Workstation Install
+2022-05-23 21:09:32 [12724-7872] :: Info :: Copy File From=DeepFrz.sys To=C:\WINDOWS\system32\drivers\
+2022-05-23 21:09:32 [12724-7872] :: Info :: Install Driver (DeepFrz.sys)
+2022-05-23 21:09:32 [12724-7872] :: Info :: Install Volume Filters
+2022-05-23 21:09:32 [12724-7872] :: Info :: Install Disk Filters
+2022-05-23 21:09:32 [12724-7872] :: Info :: Install Mouse Filter
+2022-05-23 21:09:32 [12724-7872] :: Info :: Install Keyboard Filter
+2022-05-23 21:09:32 [12724-7872] :: Info :: Install/Upgrade FarDisk Driver
+2022-05-23 21:09:32 [12724-7872] :: Info :: Copy File From=DfDiskLo.sys To=C:\WINDOWS\system32\drivers\
+2022-05-23 21:09:32 [12724-7872] :: Info :: Install Driver (DFDiskLo.sys)
+2022-05-23 21:09:32 [12724-7872] :: Info :: Install Disk Lower Filter
+2022-05-23 21:09:32 [12724-7872] :: Info :: Copy File From=DFFilter.sys To=C:\WINDOWS\system32\drivers\
+2022-05-23 21:09:32 [12724-7872] :: Info :: Install Driver (DFFilter.sys)
+2022-05-23 21:09:32 [12724-7872] :: Info :: NTFS File System supported
+2022-05-23 21:09:52 [12724-7872] :: Info :: Handle BootStat
+2022-05-23 21:09:52 [12724-7872] :: Error :: DInstall2000::RenameBootStat() - 1. MoveFileEx() call FAILED with an Error = 0x00000020 - Dosya ba2022-05-23 21:09:52 [12724-7872] :: Info :: Handle Crash Control
+2022-05-23 21:09:52 [12724-7872] :: Info :: Handle Logon
+2022-05-23 21:09:52 [12724-7872] :: Info :: Handle Check Disk
+2022-05-23 21:09:52 [12724-7872] :: Info :: Handle Miscellaneous Registry
+2022-05-23 21:09:52 [12724-7872] :: Info :: Copy MOF files
+2022-05-23 21:09:52 [12724-7872] :: Info :: Copy File From=FaronicsWebProduct.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2022-05-23 21:09:52 [12724-7872] :: Info :: Copy File From=FaronicsWebProduct_v1.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2022-05-23 21:09:52 [12724-7872] :: Info :: Copy File From=DeepFreezeWorkstation.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2022-05-23 21:09:52 [12724-7872] :: Info :: MOF Compiler File = C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\1.bat
+2022-05-23 21:09:52 [12724-7872] :: Info :: Install ThawSpaces
+2022-05-23 21:09:52 [12724-7872] :: Info :: Determining if existing ThawSpaces need to be retained
+2022-05-23 21:09:52 [12724-7872] :: Info :: Installing ThawSpace components
+2022-05-23 21:09:59 [12724-7872] :: Info :: Completed DeepFreeze Installation
+2022-05-23 21:10:04 [12724-7872] :: Info :: KcExitWindows::KcExitWindows(1.0) - ENTER
+2022-05-23 21:10:04 [12724-7872] :: Info :: KcExitWindows::KcExitWindows(1.1) - Modify Process Privileges
+2022-05-23 21:10:04 [12724-7872] :: Info :: KcExitWindows::KcExitWindows(1.2) - Launch Restart/Shutdown Thread
+2022-05-23 21:10:04 [12724-1028] :: Info :: ENTER - Flags = 0x00000001 (0=S 1=R 2=PO 3=LO)
+2022-05-23 21:10:05 [12724-1028] :: Info :: 1.0 - REBOOT
+2022-05-23 21:10:05 [12724-1028] :: Info :: 1.3 - InitiateShutdownW() completed SUCCESSFULLY
+2022-05-23 21:10:05 [12724-1028] :: Info :: 1.4 - 60 sec delay

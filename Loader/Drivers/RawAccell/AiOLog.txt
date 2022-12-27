@@ -1,0 +1,37 @@
+Microsoft .NET Framework
+.NET Framework 2.0 - 3.5.1:                                       	Fertig
+
+Standard Programme
+Java: Fix MS SystemUser Bug:                                   	Fertig
+Java: Remove old Installation:                                   	Fertig
+Java Runtime Environment 8 Update 251:               	Fertig
+Java Runtime Environment 8 Update 251 x64:        	Fertig
+Visual C++ 2005 Uninstall:                                         	Fertig
+Visual C++ 2005:                                                         	Fertig
+Visual C++ 2005 x64:                                                  	Fertig
+Visual C++ 2008 Uninstall:                                         	Fertig
+Visual C++ 2008:                                                         	Fertig
+Visual C++ 2008 x64:                                                  	Fertig
+Visual C++ 2010 Uninstall:                                         	Fertig
+Visual C++ 2010:                                                         	Fertig
+Visual C++ 2010 x64:                                                  	Fertig
+Visual C++ 2012 Uninstall:                                         	Fertig
+Visual C++ 2012 Minimum:                                      	Fertig
+Visual C++ 2012 Additional:                                      	Fertig
+Visual C++ 2012 Minimum x64:                               	Fertig
+Visual C++ 2012 Additional x64:                               	Fertig
+Visual C++ 2013 Uninstall:                                         	Fertig
+Visual C++ 2013:                                                         	Fertig
+Visual C++ 2013 x64:                                                  	Fertig
+Visual C++ 2019 Uninstall:                                         	Fertig
+Visual C++ 2019:                                                         	Fertig
+Visual C++ 2019 x64:                                                  	Fertig
+
+Sonstige Runtimes
+Microsoft Visual J-Sharp 2.0 SE:                                	Fehlgeschlagen. Fehlercode: 4121 (0x00001019)
+
+Standard Programme
+Microsoft Silverlight v5.1.50918.0 x64:                     	Fertig
+
+System Runtimes
+Allgemeine Runtime Dateien:                                   	Fertig
